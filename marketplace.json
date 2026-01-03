@@ -15,12 +15,12 @@
 			"id": "pixlcore/xyplug-stagehand",
 			"title": "Stagehand",
 			"description": "An AI-powered browser automation framework for xyOps.  Drive a headless browser with simple English instructions, take actions, extract data, capture network requests, and even record a video of the whole session.",
-			"versions": ["v1.0.9"],
+			"versions": ["v1.0.10"],
 			"type": "plugin",
 			"license": "MIT",
 			"tags": ["stagehand", "playwright"],
 			"requires": [ "docker" ],
-			"date": "2026-01-01"
+			"date": "2026-01-02"
 		}
 	]
 }
