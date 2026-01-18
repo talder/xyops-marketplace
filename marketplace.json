@@ -75,7 +75,7 @@
 			"title": "Replicate AI",
 			"author": "PixlCore",
 			"description": "Generate high-quality AI images, video, or audio using the Replicate API.",
-			"versions": ["v1.0.0"],
+			"versions": ["v1.0.1", "v1.0.0"],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
