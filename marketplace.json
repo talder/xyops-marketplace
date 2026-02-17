@@ -251,6 +251,20 @@
 			"requires": ["pwsh"],
 			"created": "2026-02-17",
 			"modified": "2026-02-17"
+		},
+		{
+			"id": "talder/xyOps-ToSyslog",
+			"title": "Syslog Sender",
+			"author": "Tim Alderweireldt",
+			"description": "A powerful xyOps Action Plugin that sends messages to Syslog servers using UDP, TCP, or TLS protocols with support for both RFC 3164 (BSD/Legacy) and RFC 5424 (Modern) message formats.",
+			"versions": ["v1.0.0"],
+			"type": "plugin",
+			"plugin_type": "action",
+			"license": "MIT",
+			"tags": ["Syslog", "Logging", "Monitoring"],
+			"requires": ["pwsh"],
+			"created": "2026-02-17",
+			"modified": "2026-02-17"
 		}
 	]
 }
