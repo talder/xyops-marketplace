@@ -335,6 +335,20 @@
 			"requires": ["pwsh"],
 			"created": "2026-02-21",
 			"modified": "2026-02-21"
+		},
+		{
+			"id": "talder/xyOps-Windows-DNS",
+			"title": "Windows DNS",
+			"author": "Tim Alderweireldt",
+			"description": "Manage Microsoft Windows DNS Server records directly from xyOps.  Create, update, delete, and list DNS records including A, AAAA, CNAME, MX, TXT, SRV, and more.",
+			"versions": ["v1.0.0"],
+			"type": "plugin",
+			"plugin_type": "event",
+			"license": "MIT",
+			"tags": ["Windows DNS", "DNS Management", "Network Automation"],
+			"requires": ["pwsh"],
+			"created": "2026-02-21",
+			"modified": "2026-02-21"
 		}
 	]
 }
