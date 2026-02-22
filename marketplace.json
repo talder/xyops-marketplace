@@ -391,6 +391,20 @@
 			"requires": ["pwsh"],
 			"created": "2026-02-22",
 			"modified": "2026-02-22"
+		},
+		{
+			"id": "talder/xyOps-AD-Users",
+			"title": "Active Directory Users",
+			"author": "Tim Alderweireldt",
+			"description": "A comprehensive toolset for Active Directory user account management.  Create, update, delete, and list user accounts, manage group memberships, reset passwords, and more.",
+			"versions": ["v1.0.0"],
+			"type": "plugin",
+			"plugin_type": "event",
+			"license": "MIT",
+			"tags": ["Active Directory", "AD", "Users", "Account Management"],
+			"requires": ["pwsh"],
+			"created": "2026-02-22",
+			"modified": "2026-02-22"
 		}
 	]
 }
