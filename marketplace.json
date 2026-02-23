@@ -447,6 +447,34 @@
 			"requires": ["pwsh"],
 			"created": "2026-02-22",
 			"modified": "2026-02-22"
+		},
+		{
+			"id": "talder/xyOps-AD-Groups",
+			"title": "Active Directory Groups",
+			"author": "Tim Alderweireldt",
+			"description": "A comprehensive toolset for Active Directory group management.  Create, update, delete, and list groups, manage group memberships, and more.",
+			"versions": ["v1.0.1"],
+			"type": "plugin",
+			"plugin_type": "event",
+			"license": "MIT",
+			"tags": ["Active Directory", "AD", "Groups", "Group Management"],
+			"requires": ["pwsh"],
+			"created": "2026-02-22",
+			"modified": "2026-02-23"
+		},
+		{
+			"id": "talder/xyOps-AD-Computers",
+			"title": "Active Directory Computers",
+			"author": "Tim Alderweireldt",
+			"description": "A comprehensive toolset for Active Directory computer account management.  Create, update, delete, and list computer accounts, manage group memberships, and more.",
+			"versions": ["v1.0.0"],
+			"type": "plugin",
+			"plugin_type": "event",
+			"license": "MIT",
+			"tags": ["Active Directory", "AD", "Computers", "Computer Account Management"],
+			"requires": ["pwsh"],
+			"created": "2026-02-22",
+			"modified": "2026-02-23"
 		}
 	]
 }
